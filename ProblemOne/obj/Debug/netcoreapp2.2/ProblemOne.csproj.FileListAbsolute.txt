@@ -1,0 +1,11 @@
+/Users/dysmith/Developer/lab/ProjectEuler/ProblemOne/bin/Debug/netcoreapp2.2/ProblemOne.deps.json
+/Users/dysmith/Developer/lab/ProjectEuler/ProblemOne/bin/Debug/netcoreapp2.2/ProblemOne.runtimeconfig.json
+/Users/dysmith/Developer/lab/ProjectEuler/ProblemOne/bin/Debug/netcoreapp2.2/ProblemOne.runtimeconfig.dev.json
+/Users/dysmith/Developer/lab/ProjectEuler/ProblemOne/bin/Debug/netcoreapp2.2/ProblemOne.dll
+/Users/dysmith/Developer/lab/ProjectEuler/ProblemOne/bin/Debug/netcoreapp2.2/ProblemOne.pdb
+/Users/dysmith/Developer/lab/ProjectEuler/ProblemOne/obj/Debug/netcoreapp2.2/ProblemOne.csprojAssemblyReference.cache
+/Users/dysmith/Developer/lab/ProjectEuler/ProblemOne/obj/Debug/netcoreapp2.2/ProblemOne.csproj.CoreCompileInputs.cache
+/Users/dysmith/Developer/lab/ProjectEuler/ProblemOne/obj/Debug/netcoreapp2.2/ProblemOne.AssemblyInfoInputs.cache
+/Users/dysmith/Developer/lab/ProjectEuler/ProblemOne/obj/Debug/netcoreapp2.2/ProblemOne.AssemblyInfo.cs
+/Users/dysmith/Developer/lab/ProjectEuler/ProblemOne/obj/Debug/netcoreapp2.2/ProblemOne.dll
+/Users/dysmith/Developer/lab/ProjectEuler/ProblemOne/obj/Debug/netcoreapp2.2/ProblemOne.pdb
