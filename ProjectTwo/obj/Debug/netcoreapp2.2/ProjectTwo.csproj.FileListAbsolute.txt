@@ -1,0 +1,11 @@
+/Users/dysmith/Developer/lab/ProjectEuler/ProjectTwo/bin/Debug/netcoreapp2.2/ProjectTwo.deps.json
+/Users/dysmith/Developer/lab/ProjectEuler/ProjectTwo/bin/Debug/netcoreapp2.2/ProjectTwo.runtimeconfig.json
+/Users/dysmith/Developer/lab/ProjectEuler/ProjectTwo/bin/Debug/netcoreapp2.2/ProjectTwo.runtimeconfig.dev.json
+/Users/dysmith/Developer/lab/ProjectEuler/ProjectTwo/bin/Debug/netcoreapp2.2/ProjectTwo.dll
+/Users/dysmith/Developer/lab/ProjectEuler/ProjectTwo/bin/Debug/netcoreapp2.2/ProjectTwo.pdb
+/Users/dysmith/Developer/lab/ProjectEuler/ProjectTwo/obj/Debug/netcoreapp2.2/ProjectTwo.csprojAssemblyReference.cache
+/Users/dysmith/Developer/lab/ProjectEuler/ProjectTwo/obj/Debug/netcoreapp2.2/ProjectTwo.csproj.CoreCompileInputs.cache
+/Users/dysmith/Developer/lab/ProjectEuler/ProjectTwo/obj/Debug/netcoreapp2.2/ProjectTwo.AssemblyInfoInputs.cache
+/Users/dysmith/Developer/lab/ProjectEuler/ProjectTwo/obj/Debug/netcoreapp2.2/ProjectTwo.AssemblyInfo.cs
+/Users/dysmith/Developer/lab/ProjectEuler/ProjectTwo/obj/Debug/netcoreapp2.2/ProjectTwo.dll
+/Users/dysmith/Developer/lab/ProjectEuler/ProjectTwo/obj/Debug/netcoreapp2.2/ProjectTwo.pdb
